@@ -42,7 +42,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 
 - Files `game.rs` and `add.rs` are **not needed** right now.  
 - `lib.rs` links everything together so you can easily `pub use` the engine via `prelude.rs`.  
-- To chang any value you of camera at runtim insted of doing example cam.position.x you have to do cam.camera3d.position.x
+- To chang any value of camera at runtime instead of doing, example cam.position.x you have to do cam.camera3d.position.x
 ### At a glance
 - ✔️ What Rivy is  
 - ✔️ How it’s structured  
