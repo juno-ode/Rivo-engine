@@ -1,4 +1,4 @@
-<img width="30" height="30" alt="extension_icon (3)" src="https://github.com/user-attachments/assets/da3733d6-5447-4b09-b6fd-a6ef0f2e424e" /> #Rivy Game Engine (made in rust)
+<img width="30" height="30" alt="extension_icon (3)" src="https://github.com/user-attachments/assets/da3733d6-5447-4b09-b6fd-a6ef0f2e424e" /> #Rivy Game Engine (made in rust) To use it you have to install the source code of rivy for now bc it is no crate for it
 
 
 <img width="3568" height="5728" alt="ray-so-export (4)" src="https://github.com/user-attachments/assets/85969dad-718e-4232-a363-aee034a3ee61" />
