@@ -1,4 +1,4 @@
-<img width="30" height="30" alt="extension_icon (3)" src="https://github.com/user-attachments/assets/da3733d6-5447-4b09-b6fd-a6ef0f2e424e" /> #Rivy Game Engine (made in rust) `Prototype`
+<img width="30" height="30" alt="extension_icon (3)" src="https://github.com/user-attachments/assets/da3733d6-5447-4b09-b6fd-a6ef0f2e424e" /> **Rivy** Game Engine (made in rust) `Demo`
 
 
 <img width="3568" height="5728" alt="ray-so-export (4)" src="https://github.com/user-attachments/assets/85969dad-718e-4232-a363-aee034a3ee61" />
@@ -11,7 +11,7 @@
 
 
 
-`Prototype` **Rivy** is a lightweight game engine built on top of **Raylib** and **Bevy ECS**.  
+**Rivy** is a lightweight game engine built on top of **Raylib** and **Bevy ECS**.  
 It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly** while still giving you the power of ECS.  
 ⚠️ Not done adding all of raylibs func *no crate* and right now it is just a bevy_ecs wrapper for Raylib
 
