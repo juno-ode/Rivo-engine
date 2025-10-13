@@ -31,9 +31,8 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 ## Roadmap
 
 - ✅ Core engine loop (`wint.rs`)  
-- ✅ 3D drawing (`draw3d.rs`)  
-- ✅ keybord input system  (`runtimesys.rs`)
-- ✅ 2D rendering support   
+- ✅ 3D/2D drawing (`draw3d.rs`)  
+- ✅ keybord input system  (`runtimesys.rs`)   
 - 🔄 Add more Raylib functions  
 - 🔄 audio system
 - 🔄 physic intergration
