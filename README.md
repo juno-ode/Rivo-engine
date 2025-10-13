@@ -19,9 +19,9 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 
 ## Features
 
-- 🎮 **Raylib integration** → simple and fast rendering  
+- 🏎️ **Raylib integration** → simple and fast rendering  
 - 🧩 **Bevy ECS** → modern entity-component-system architecture   
--   **Input system** -> For geting keybord input's `runtimesys.rs`
+- ⌨️ **Input system** -> For geting keybord input's `runtimesys.rs`
 - 🖼️ **Customizable draw system** → add any 3D draw function in `draw3d.rs`  
 - 🪟 **Main loop and window setup** → handled in `wint.rs`  
 - 📦 **Library exports** → managed through `lib.rs` and `prelude.rs`  
@@ -30,7 +30,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 
 ## Roadmap
 
-- ✅ Core engine loop (`wint.rs`)  
+- ✅ Core engine loop (`winit.rs`)  
 - ✅ 3D/2D drawing (`draw3d.rs`)  
 - ✅ keybord input system  (`runtimesys.rs`)   
 - 🔄 Add more Raylib functions  
