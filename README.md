@@ -13,7 +13,8 @@
 
 **Rivy** is a lightweight game engine built on top of **Raylib** and **Bevy ECS**.  
 It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly** while still giving you the power of ECS.  
-⚠️ Not done adding all of raylibs func *no crate* and right now it is just a bevy_ecs wrapper for Raylib
+⚠️ To use it Without Download you have to do (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) in you project `Cargo.tmol` file
+⚠️ Not done adding all of raylibs func and right now it is just a bevy_ecs wrapper for Raylib
 
 ---
 
