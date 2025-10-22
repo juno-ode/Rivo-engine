@@ -32,10 +32,11 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 - ✅ Core engine loop (`winit.rs`)  
 - ✅ 3D/2D drawing (`draw3d.rs`)  
 - ✅ keybord input system  (`runtimesys.rs`)   
-- 🔄 Add more Raylib functions  
-- 🔄 audio system
-- 🔄 physic intergration
-- 🔄 and More
+- 🔄 GUI Editor **Coming soon**
+- 🔄 Add more Raylib functions **Coming soon**  
+- 🔄 audio system **Coming soon**
+- 🔄 physic intergration **Coming soon**
+- 🔄 and More 
 ---
 
 ## Notes
