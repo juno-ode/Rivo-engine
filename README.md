@@ -15,9 +15,10 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 ⚠️ Not done adding all of raylibs func and right now it is just a bevy_ecs wrapper for Raylib
 ---
 
-## installation guide
+## Installation Guide 
 - ⚠️ **To use it Without Download you have to add** (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
 - ⚠️ `don't forget to install the raylib dependencies & cmake`
+- ⚠️ if on windows you might have to install mingw "I din't test it yet on windows"
 ---
 
 ## Features
