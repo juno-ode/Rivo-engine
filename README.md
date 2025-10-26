@@ -17,6 +17,10 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 ⚠️ `don't forget to install the raylib dependencies and cmake`
 ---
 
+##installation guide
+- ⚠️ To use it Without Download you have to add (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
+- ⚠️ `don't forget to install the raylib dependencies & cmake`
+
 ## Features
 
 - 🏎️ **Raylib integration** → simple and fast rendering  
