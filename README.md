@@ -34,7 +34,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 
 ## Roadmap
 
-- ✅ Core engine loop (`winit.rs`)  
+- ✅ default Core engine loop (`winit.rs`) `you can make a custom winit`  
 - ✅ 3D/2D drawing (`draw3d.rs`)  
 - ✅ keybord input system  (`runtimesys.rs`)   
 - 🔄 GUI Editor **Coming soon**
@@ -45,7 +45,8 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 ---
 
 ## Notes
-
+- you can aso make your own app sturct for rivy 
+-File winit.
 - Files `game.rs` and `add.rs` are **not needed** right now.  
 - `lib.rs` links everything together so you can easily `pub use` the engine via `prelude.rs`.  
 - To chang any value of camera at runtime instead of doing, example cam.position.x you have to do cam.camera3d.position.x
