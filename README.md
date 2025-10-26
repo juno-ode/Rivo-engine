@@ -27,7 +27,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 - 🧩 **Bevy ECS** → modern entity-component-system architecture   
 - ⌨️ **Input system** -> For geting keybord input's `runtimesys.rs`
 - 🖼️ **Customizable draw system** → add any 3D draw function in `draw3d.rs`  
-- 🪟 **Main loop and window setup** → handled in `wint.rs`  
+- 🪟 ** Default Main loop and window setup** → handled in `wint.rs` (`you can make a custom one`)  
 - 📦 **Library exports** → managed through `lib.rs` and `prelude.rs`  
 
 ---
