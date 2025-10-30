@@ -12,14 +12,16 @@ https://github.com/user-attachments/assets/c3adc22c-8a21-437f-b707-dd00141fc2df
 
 **Rivy** is a lightweight game engine built on top of **Raylib** and **Bevy ECS**.  
 It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly** while still giving you the power of ECS.  
+---
 ⚠️ Not done adding all of raylibs func and right now it is just a bevy_ecs wrapper for Raylib
 ---
 
 ## Installation Guide 
-- **Install cmake and make **
-- **first run the make file By doing ** `cd Rivy-engine` Then run `make dep`
-- ⚠️ **To use it Without Downloading The Source Code you have to add** (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
-- ⚠️ if on windows you might have to install mingw "I din't test it yet on windows"
+- ⚠️ **for window and mac you might have to go to the raylib github to install the dependencies**
+- **Install cmake and make**
+- **First run the make file By doing In the terminal** -> `cd Rivy-engine` Then run -> `make dep`
+- **To use it Without Downloading The Source Code you have to add** (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
+
 ---
 
 ## Features
