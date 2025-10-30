@@ -16,8 +16,9 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 ---
 
 ## Installation Guide 
-- ⚠️ **To use it Without Download you have to add** (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
-- ⚠️ `don't forget to install the raylib dependencies & cmake`
+- **Install cmake and make **
+- **first run the make file By doing ** `cd Rivy-engine` Then run `make dep`
+- ⚠️ **To use it Without Downloading The Source Code you have to add** (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
 - ⚠️ if on windows you might have to install mingw "I din't test it yet on windows"
 ---
 
