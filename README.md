@@ -17,7 +17,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 ---
 
 ## Installation Guide 
-- ⚠️ **for window and mac you might have to go to the raylib github to install the dependencies**
+- ⚠️ **for window and mac you might have to go to the raylib github to install the dependencies and if on linux the makefile only dowloads the dep on debian linux distros** 
 - **Install cmake and make**
 - **First run the make file By doing In the terminal** -> `cd Rivy-engine` Then run -> `make dep`
 - **To use Rivy Without Downloading The Source Code you have to add** (`rivy = { git = "https://github.com/juno-ode/Rivy-engine.git", subdir = "rivy" }`) under `[dependencies]` in your project `Cargo.tmol` file
