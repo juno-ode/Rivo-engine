@@ -43,7 +43,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 - ✅ keybord input system  (`runtimesys.rs`)   
 - ✅ GUI Editor `https://github.com/juno-ode/Rivy_GUIeditor/`
 - 🔄 Add more Raylib functions **Coming soon**  
-- 🔄 audio system **Coming soon**
+- ✅ audio system **you can use Raylibs built in audio sys**
 - 🔄 physic intergration **Coming soon**
 - 🔄 and More 
 ---
