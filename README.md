@@ -1,4 +1,4 @@
-<img width="428" height="398" alt="Screenshot from 2025-11-03 12-22-33" src="https://github.com/user-attachments/assets/99600e00-c113-4396-96d4-2ca3f8e52fed" />
+<img width="30" height="30" alt="Screenshot from 2025-11-03 12-22-33" src="https://github.com/user-attachments/assets/99600e00-c113-4396-96d4-2ca3f8e52fed" />
 
  **Rivy Game Engine (made in rust)** `Demo`
 
