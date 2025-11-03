@@ -1,4 +1,5 @@
-<img width="120" height="120" alt="extension_icon (5)" src="https://github.com/user-attachments/assets/01240c18-032d-4fdb-9ea4-ba42d6b6f2af" />
+<img width="428" height="398" alt="Screenshot from 2025-11-03 12-22-33" src="https://github.com/user-attachments/assets/99600e00-c113-4396-96d4-2ca3f8e52fed" />
+
  **Rivy Game Engine (made in rust)** `Demo`
 
 
