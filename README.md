@@ -42,7 +42,7 @@ It is designed to be **easy to use**, **CPU-friendly**, and **beginner-friendly*
 - ✅ default Core engine loop (`winit.rs`) `you can make a custom winit`  
 - ✅ 3D/2D drawing (`draw3d.rs`)  
 - ✅ keybord input system  (`runtimesys.rs`)   
-- ✅ GUI Editor `https://github.com/juno-ode/Rivy_GUIeditor/`
+- ✅ GUI Editor https://github.com/juno-ode/Rivy-Engine-editor.git
 - 🔄 Add more Raylib functions **Coming soon**  
 - ✅ audio system **you can use Raylibs built in audio sys**
 - 🔄 physic intergration **Coming soon**
